@@ -11,7 +11,7 @@ A fully functional **desktop-based Shop Management System** built with Java Swin
 ## 📸 Screenshots
 
 ### Login Screen
-<img src="Screenshot/Loginscreen.png" width="600"/>
+<img src="Screenshot/Login screen.png" width="600"/>
 
 ### Admin Dashboard
 <img src="Screenshot/Dashboard.png" width="600"/>
